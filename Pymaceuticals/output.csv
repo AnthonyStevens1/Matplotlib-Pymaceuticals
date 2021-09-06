@@ -1,0 +1,26 @@
+,Mouse ID,Timepoint,index,Drug Regimen,Sex,Age_months,Weight (g),Tumor Volume (mm3),Metastatic Sites
+0,a411,5,319,Ramicane,Male,3,22,45.46667714,0
+1,a444,5,422,Ramicane,Female,10,25,44.00597487,0
+2,a520,5,206,Ramicane,Male,13,21,38.72370695,0
+3,a644,5,166,Ramicane,Female,7,17,45.55015754,0
+4,c458,5,284,Ramicane,Female,23,20,45.72227949,0
+5,c758,5,146,Ramicane,Male,9,17,45.5786783,0
+6,d251,5,264,Ramicane,Female,8,19,41.74635495,1
+7,e662,5,392,Ramicane,Male,8,24,45.81628252,0
+8,g791,5,41,Ramicane,Male,11,16,45.85153062,0
+9,i177,5,176,Ramicane,Male,10,18,44.06539783,0
+10,i334,5,246,Ramicane,Female,8,20,41.02051821,0
+11,j913,5,86,Ramicane,Female,4,17,44.01490022,0
+12,j989,5,186,Ramicane,Male,8,19,45.62071835,1
+13,k403,5,1,Ramicane,Male,21,16,38.82589807,0
+14,m546,5,66,Ramicane,Male,18,16,42.99887638,0
+15,n364,5,106,Ramicane,Male,4,17,45.52187471,0
+16,q597,5,412,Ramicane,Male,20,25,45.76611104,0
+17,q610,5,256,Ramicane,Female,18,21,45.62949421,0
+18,r811,5,226,Ramicane,Male,9,19,45.62580225,0
+19,r921,5,442,Ramicane,Female,5,25,45.56821083,0
+20,s508,5,51,Ramicane,Male,1,17,38.71187185,0
+21,u196,5,402,Ramicane,Male,18,25,45.55746444,1
+22,w678,5,449,Ramicane,Female,5,24,43.16637266,0
+23,y449,5,451,Ramicane,Male,19,24,45.87754494,0
+24,z578,5,76,Ramicane,Male,11,16,42.18878662,0
